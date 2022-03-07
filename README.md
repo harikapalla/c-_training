@@ -1,4 +1,4 @@
-# c-_training
+# cpp training
 C++ training course from the opensource documents and geeksforgeeks
 
 ---------------
